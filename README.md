@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Christian Fita  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=christianfita&style=flat-square)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=vercel)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=vercel)](https://enricfitaram.dev/)  
 [![Email](https://img.shields.io/badge/Email-christianfitaram%40gmail.com-red?style=flat-square&logo=gmail)](mailto:christianfitaram@gmail.com)  
 
 ---
