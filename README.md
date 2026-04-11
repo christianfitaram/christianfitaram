@@ -1,4 +1,7 @@
 # 👋 Hi, I’m Christian Fita  
+**Software developer — Building end-to-end intelligent data platforms**
+
+I design and ship production-grade AI systems that transform unstructured data into real-time, actionable intelligence using LLMs, vector search, and scalable pipelines.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=christianfita&style=flat-square)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=vercel)](https://enricfitaram.dev/)  
@@ -6,61 +9,112 @@
 
 ---
 
-## 💻 About Me  
-- **Full-stack developer** with a focus on **React, TypeScript, Next.js, Tailwind CSS, and Python**.  
-- Focused on **AI models & NLP** implementation.
-- Strong believer in **fast iteration**, **practical impact**, and building **beautiful, functional UIs**.  
+## What I Do
+
+- Build **RAG systems** and semantic search platforms  
+- Design **real-time data and ML pipelines** 
+- Develop **AI agents with structured outputs & UI actions**  
+- Deliver **full-stack AI products** (API + frontend)  
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects
 
-### 🐾 Pokémon App and Search Assistant  
-Semantic Pokémon search using **pgvector**, **OpenAI embeddings**, and a **streaming AI chat UI**.  
+### DeepPolitik *(RAG System)*  
+AI-powered search engine for Spanish parliamentary proceedings.
 
-🔗 [View Repository](https://github.com/christianfitaram/the-pokemon-app) | 🌐 [Live Demo](https://project1.enricfitaram.dev)  
+- Natural language queries → relevant speeches, transcripts, and video timestamps  
+- Hybrid retrieval: **pgvector + keyword search + LLM reranking**  
+- Entity resolution, deduplication, and scalable data pipelines  
 
+**Preview:** 
 
-**Preview:**  
-![Pokemon App Screenshot](https://storage.googleapis.com/multimedia-assets/Screenshot%202025-08-11%20at%2016.00.48.png)  
-![Pokemon App Demo GIF](https://your-gif-link.com/pokemon-app-demo.gif)  
+ <video src="https://j7ais3uu26.ufs.sh/f/0l5bioVN6Q2zkIMDmeb4X41pNnsT68oR7zmLWE3xeFlj0icY" autoplay loop muted width="500"></video>
+---
+
+### WorldAlerts *(Real-time AI Pipeline)*  
+Real-time system for detecting world events from news and Telegram sources.
+
+- Multi-source ingestion (news + Telegram)  
+- NLP/LLM enrichment (summarization, translation, classification)  
+- Event detection via **vector similarity + HDBSCAN clustering**  
+- Full-stack delivery via FastAPI + Next.js/NestJS
+
+**Preview:** 
+- Platform and API are currently free to use [here](https://www.worldalerts.io/).  
 
 ---
 
-### 📊 Trending Words Analysis Pipeline UI and API
-A complete platform for news scraping, classification, keyword extraction, sentiment analysis, and trend tracking.
-Includes a fully deployed interactive dashboard for exploring real-time insights, a public API for programmatic access, and a CLI tool to run the entire pipeline.
- 
+### DeepAgents *(AI Agent Platform)*  
+Platform for building **customizable, embeddable AI agents** with UI-level actions.
 
-🔗 [View Repository](https://github.com/christianfitaram/LanguageTrendExplorer) | 🌐 [Live Demo](https://trendapi.enricfitaram.dev/)  
+- RAG-based assistants with custom knowledge bases  
+- Structured LLM outputs → dynamic UI elements (forms, flows, actions)  
+- Multi-agent support with configurable logic and boundaries  
+- Designed for customer support, onboarding, and data interaction  
 
-**Preview:**  
-![Trending Words Dashboard Screenshot](https://storage.googleapis.com/multimedia-assets/screenshot-trend.png)  
-![Trending Words Dashboard Demo GIF](https://your-gif-link.com/trending-dashboard-demo.gif)  
+**Preview:** 
+
+ <video src="https://j7ais3uu26.ufs.sh/f/0l5bioVN6Q2zkIMDmeb4X41pNnsT68oR7zmLWE3xeFlj0icY](https://j7ais3uu26.ufs.sh/f/0l5bioVN6Q2ziwxww2KsLupOIv91E6VQcYFhRdUDWlikej72" autoplay loop muted width="500"></video>
 
 ---
 
-## 🛠️ Tech Stack  
+## Open Source Modules
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+These repositories are modular, open-source versions of production systems, extracted and adapted for reuse.
 
-**Backend & AI:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)  
-![pgvector](https://img.shields.io/badge/pgvector-000000?style=flat-square)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  
+### News Ingestion Pipeline  
+https://github.com/christianfitaram/news-scrapper-open  
+AI-powered pipeline for scraping, cleaning, and enriching news articles with NLP/LLMs.
+
+---
+
+### Telegram Ingestion Pipeline  
+https://github.com/christianfitaram/telegram-scrapper-open  
+Transforms Telegram channel data into structured, AI-enriched records for real-time analytics.
+
+---
+
+### Semantic API (Vector Search)  
+https://github.com/christianfitaram/api-semantic  
+FastAPI service for embedding-based retrieval and vector similarity search (pgvector).
+
+---
+## Tech Stack
+
+**AI / NLP**
+- LLMs (Gemini, Ollama, GPT-based)
+- Transformers, spaCy
+- Retrieval-Augmented Generation (RAG)
+
+**Backend**
+- Python, FastAPI
+- Node.js, NestJS, SpringBoot
+
+**Data**
+- PostgreSQL (pgvector)
+- MongoDB
+
+**Frontend**
+- Next.js, React, Tailwind
+
+**Infra / Tooling**
+- Docker, GCP / AWS
+- Poetry, Pytest, Ruff, MyPy
+
+---
+
+## 🎯 What I Focus On
+
+- Building AI systems that work with **real-world, messy data**  
+- Designing **scalable architectures beyond prototypes**  
+- Delivering **end-to-end products with real impact**  
 
 ---
 
 ## 🌍 Availability  
-📍 **Location:** Barcelona  
-💼 **Looking for:** Remote full-time roles where I can **design, build, and deploy impactful software**.  
+📍 **Location:** Malmö - Sweden  
+💼 **Looking for:** Projects where I can **design, build, and deploy impactful software**.  
 
 ---
 
@@ -71,4 +125,4 @@ Includes a fully deployed interactive dashboard for exploring real-time insights
 
 ---
 
-⚡ **Fun fact:** Capybaras are still the chillest creatures on earth — but now I’m building apps as calm and reliable as they are.
+**Fun fact:** Capybaras are the chillest creatures on earth
