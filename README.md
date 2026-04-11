@@ -27,9 +27,8 @@ AI-powered search engine for Spanish parliamentary proceedings.
 - Hybrid retrieval: **pgvector + keyword search + LLM reranking**  
 - Entity resolution, deduplication, and scalable data pipelines  
 
-**Preview:** 
+[**Preview**](https://j7ais3uu26.ufs.sh/f/0l5bioVN6Q2zkIMDmeb4X41pNnsT68oR7zmLWE3xeFlj0icY)
 
- <video src="https://j7ais3uu26.ufs.sh/f/0l5bioVN6Q2zkIMDmeb4X41pNnsT68oR7zmLWE3xeFlj0icY" autoplay loop muted width="500"></video>
 ---
 
 ### WorldAlerts *(Real-time AI Pipeline)*  
@@ -53,9 +52,8 @@ Platform for building **customizable, embeddable AI agents** with UI-level actio
 - Multi-agent support with configurable logic and boundaries  
 - Designed for customer support, onboarding, and data interaction  
 
-**Preview:** 
+[**Preview**](https://j7ais3uu26.ufs.sh/f/0l5bioVN6Q2ziwxww2KsLupOIv91E6VQcYFhRdUDWlikej72)
 
- <video src="https://j7ais3uu26.ufs.sh/f/0l5bioVN6Q2zkIMDmeb4X41pNnsT68oR7zmLWE3xeFlj0icY](https://j7ais3uu26.ufs.sh/f/0l5bioVN6Q2ziwxww2KsLupOIv91E6VQcYFhRdUDWlikej72" autoplay loop muted width="500"></video>
 
 ---
 
