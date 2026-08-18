@@ -111,7 +111,7 @@ FastAPI service for embedding-based retrieval and vector similarity search (pgve
 ---
 
 ## 🌍 Availability  
-📍 **Location:** Malmö - Sweden  
+📍 **Location:** Barcelona  
 💼 **Looking for:** Projects where I can **design, build, and deploy impactful software**.  
 
 ---
