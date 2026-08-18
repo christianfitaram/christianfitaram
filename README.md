@@ -4,7 +4,7 @@
 I design and ship production-grade AI systems that transform unstructured data into real-time, actionable intelligence using LLMs, vector search, and scalable pipelines.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=christianfita&style=flat-square)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=vercel)](https://enricfitaram.dev/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=vercel)]([https://enricfitaram.dev/](https://christianfitaram.github.io/personal_portfolio_v2/))  
 [![Email](https://img.shields.io/badge/Email-christianfitaram%40gmail.com-red?style=flat-square&logo=gmail)](mailto:christianfitaram@gmail.com)  
 
 ---
